@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/Lab_02_Positions_Of.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P02_Matrix/Lab_01_Positions_Of.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_01_Compare_Matrices">
+  <component name="RunManager" selected="Application.Lab_02_Positions_Of">
     <configuration name="EX_01_Reverse_Numbers_with_a_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P01_Stacks_and_Queues.EX_01_Reverse_Numbers_with_a_Stack" />
       <module name="Advanced" />
@@ -69,8 +68,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_02_Position_of_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_Matrix.Lab_02_Position_of_2" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P02_Matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_02_Positions_Of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_Matrix.Lab_02_Positions_Of" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P02_Matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_02_Positions_Of" />
+        <item itemvalue="Application.Lab_02_Position_of_2" />
         <item itemvalue="Application.Lab_01_Compare_Matrices" />
         <item itemvalue="Application.EX_01_Reverse_Numbers_with_a_Stack" />
       </list>
