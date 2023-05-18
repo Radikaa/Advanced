@@ -28,7 +28,7 @@ public class Lab_02_Positions_Of {
                 }
             }
         }
-        if (isPrint == false) {
+        if (!isPrint) {
             System.out.println("not found");
         }
     }
