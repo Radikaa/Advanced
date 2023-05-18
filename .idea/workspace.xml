@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_01_Fill_the_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_02_Matrix_of_Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_03_Diagonal_Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_04_MaximalSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +27,7 @@
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_02_Matrix_of_Palindromes.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_03_Diagonal_Difference.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_04_MaximalSum.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/Lab_03_Intersection_of_Two_Matrices.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/Lab_06_Print_Diagonals_of_Square_Matrix.java" root0="SKIP_INSPECTION" />
   </component>
@@ -52,20 +49,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX_04_MaximalSum">
-    <configuration name="EX_01_Fill_the_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_01_Fill_the_Matrix" />
-      <module name="Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P02_Matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EX_05_Matrix_shuffling">
     <configuration name="EX_02_Matrix_of_Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_02_Matrix_of_Palindromes" />
       <module name="Advanced" />
@@ -105,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX_05_Matrix_shuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_05_Matrix_shuffling" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P02_Matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab_05_Maximum_Sum_of_2X2_Submatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P02_Matrix.Lab_05_Maximum_Sum_of_2X2_Submatrix" />
       <module name="Advanced" />
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX_05_Matrix_shuffling" />
         <item itemvalue="Application.EX_04_MaximalSum" />
         <item itemvalue="Application.Lab_05_Maximum_Sum_of_2X2_Submatrix" />
         <item itemvalue="Application.EX_03_Diagonal_Difference" />
         <item itemvalue="Application.EX_02_Matrix_of_Palindromes" />
-        <item itemvalue="Application.EX_01_Fill_the_Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +148,16 @@
           <url>file://$PROJECT_DIR$/src/P02_Matrix/Lab_05_Maximum_Sum_of_2X2_Submatrix.java</url>
           <line>20</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
