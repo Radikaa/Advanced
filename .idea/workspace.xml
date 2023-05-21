@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_06_String_Matrix_Rotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_07_Crossfire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P02_Matrix/EX_08_The_Heigan_Dance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_03_Diagonal_Difference.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_04_MaximalSum.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_06_String_Matrix_Rotation.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_07_Crossfire.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_08_The_Heigan_Dance.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/Lab_03_Intersection_of_Two_Matrices.java" root0="SKIP_INSPECTION" />
@@ -54,9 +52,9 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX_07_Crossfire">
-    <configuration name="EX_04_MaximalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_04_MaximalSum" />
+  <component name="RunManager" selected="Application.EX_06_String_Matrix_Rotation">
+    <configuration name="EX_05_Matrix_shuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_05_Matrix_shuffling" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_05_Matrix_shuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_05_Matrix_shuffling" />
+    <configuration name="EX_06_String_Matrix_Rotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_Matrix.EX_06_String_Matrix_Rotation" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX_06_String_Matrix_Rotation" />
         <item itemvalue="Application.EX_07_Crossfire" />
         <item itemvalue="Application.EX_08_The_Heigan_Dance" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.EX_05_Matrix_shuffling" />
-        <item itemvalue="Application.EX_04_MaximalSum" />
       </list>
     </recent_temporary>
   </component>
@@ -158,11 +156,6 @@
           <url>file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java</url>
           <line>70</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/P02_Matrix/EX_07_Crossfire.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
