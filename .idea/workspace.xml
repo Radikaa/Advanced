@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_03_Periodic_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_04_Count_Symbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_05_Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_06_Fix_Emails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/inputLineNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/inputOne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/inputTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_01_Sum_Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_02_Sum_Bytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_03_ALL_CAPITALS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_04_Count_Character_Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_05_Line_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_06_Word_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_07_Merge_Two_Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_08_Get_Folder_Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/LAb_08_Nested_Folders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_01_Read_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_02_Write_to_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_03_Copy_Bytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_04_Extract_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_05_Write_Every_Third_Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_06_Sort_Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_07_List_Files.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +62,7 @@
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_04_Count_Symbols.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_05_Phonebook.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_06_Fix_Emails.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_01_Parking_lot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_02_SoftUni_Party.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_03_Voina_NumberGame.java" root0="SKIP_INSPECTION" />
@@ -53,6 +72,9 @@
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_07_Cities_by_Continent_and_Country.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_08_Academy_Graduation.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_09_Largest_3_Numbers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_01_Sum_Lines.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_02_Sum_Bytes.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_08_Get_Folder_Size.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Test.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -73,13 +95,22 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EX_06_Fix_Emails">
-    <configuration name="EX_01_Unique_Usernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P03_Set_and_Map.EX_01_Unique_Usernames" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\Resource" />
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\Resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="P04_Streams_Files_Directories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EX_08_Get_Folder_Size">
+    <configuration name="EX_04_Count_Character_Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_04_Count_Character_Types" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P03_Set_and_Map.*" />
+          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_03_Periodic_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P03_Set_and_Map.EX_03_Periodic_Table" />
+    <configuration name="EX_05_Line_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_05_Line_Numbers" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P03_Set_and_Map.*" />
+          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_04_Count_Symbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P03_Set_and_Map.EX_04_Count_Symbols" />
+    <configuration name="EX_06_Word_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_06_Word_Count" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P03_Set_and_Map.*" />
+          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_05_Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P03_Set_and_Map.EX_05_Phonebook" />
+    <configuration name="EX_07_Merge_Two_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_07_Merge_Two_Files" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P03_Set_and_Map.*" />
+          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_06_Fix_Emails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P03_Set_and_Map.EX_06_Fix_Emails" />
+    <configuration name="EX_08_Get_Folder_Size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_08_Get_Folder_Size" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P03_Set_and_Map.*" />
+          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX_06_Fix_Emails" />
-        <item itemvalue="Application.EX_05_Phonebook" />
-        <item itemvalue="Application.EX_04_Count_Symbols" />
-        <item itemvalue="Application.EX_03_Periodic_Table" />
-        <item itemvalue="Application.EX_01_Unique_Usernames" />
+        <item itemvalue="Application.EX_08_Get_Folder_Size" />
+        <item itemvalue="Application.EX_07_Merge_Two_Files" />
+        <item itemvalue="Application.EX_06_Word_Count" />
+        <item itemvalue="Application.EX_05_Line_Numbers" />
+        <item itemvalue="Application.EX_04_Count_Character_Types" />
       </list>
     </recent_temporary>
   </component>
