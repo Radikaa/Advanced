@@ -5,30 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/inputLineNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/inputOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/inputTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_01_Sum_Lines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_02_Sum_Bytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_03_ALL_CAPITALS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_04_Count_Character_Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_05_Line_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_06_Word_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_07_Merge_Two_Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_08_Get_Folder_Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/LAb_08_Nested_Folders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_01_Read_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_02_Write_to_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_03_Copy_Bytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_04_Extract_Integers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_05_Write_Every_Third_Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_06_Sort_Lines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P04_Streams_Files_Directories/Lab_07_List_Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_05_Reverse_and_Exclude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_06_Predicate_for_Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_07_Find_The_Smallest_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_08_Custom_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_09_List_of_Predicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_10_Predicate_Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Defining_Classes/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_EX_Car_Salesman/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_EX_Car_Salesman/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_EX_Car_Salesman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_EX_Opinion_Poll/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_EX_Opinion_Poll/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Car_info/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Car_info/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Constructors/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Constructors/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Tires.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P07_Generic_Generic_Box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P07_Generic_Generic_Box/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/magazine/Cloth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/magazine/Magazine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +55,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_01_Fill_the_Matrix.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_02_Matrix_of_Palindromes.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_03_Diagonal_Difference.java" root0="SKIP_INSPECTION" />
@@ -75,7 +86,32 @@
     <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_01_Sum_Lines.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_02_Sum_Bytes.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_08_Get_Folder_Size.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_01_ConsumerPrint.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_02_KnightsOfHonor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_03_CustomMinFunction.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_04_Applied_Arithmetics.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_05_Reverse_and_Exclude.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_06_Predicate_for_Names.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_07_Find_The_Smallest_Element.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_08_Custom_Comparator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_09_List_of_Predicates.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_10_Predicate_Party.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_01_Sort_Even_Numbers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_02_Sum_Numbers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_03_Count_Uppercase_Words.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_04_Add_VAT.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_05_Filter_by_Age.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_06_Find_Evens_or_Odds.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P06_EX_Car_Salesman/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P06_EX_Opinion_Poll/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Car_info/Car.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Car_info/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Constructors/Constructors.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Constructors/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P07_Generic_Generic_Box/Box.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/P07_Generic_Generic_Box/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/magazine/Magazine.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/magazine/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,6 +133,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\P01_Stacks_and_Queues" />
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\Resource" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\Resources" />
     </key>
@@ -104,13 +142,13 @@
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX_08_Get_Folder_Size">
-    <configuration name="EX_04_Count_Character_Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_04_Count_Character_Types" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="magazine.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
+          <option name="PATTERN" value="magazine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_05_Line_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_05_Line_Numbers" />
+    <configuration name="P06_Lab_Raw_Data.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P06_Lab_Raw_Data.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
+          <option name="PATTERN" value="P06_Lab_Raw_Data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_06_Word_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_06_Word_Count" />
+    <configuration name="P07_Generic_Generic_Box.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P07_Generic_Generic_Box.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
+          <option name="PATTERN" value="P07_Generic_Generic_Box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_07_Merge_Two_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_07_Merge_Two_Files" />
+    <configuration name="Task_02_The_Squirrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_The_Squirrel" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
+          <option name="PATTERN" value="AB_Exams_info.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_08_Get_Folder_Size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04_Streams_Files_Directories.EX_08_Get_Folder_Size" />
+    <configuration name="Tasko_01_Rubber_Duck_Debuggers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Tasko_01_Rubber_Duck_Debuggers" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P04_Streams_Files_Directories.*" />
+          <option name="PATTERN" value="AB_Exams_info.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX_08_Get_Folder_Size" />
-        <item itemvalue="Application.EX_07_Merge_Two_Files" />
-        <item itemvalue="Application.EX_06_Word_Count" />
-        <item itemvalue="Application.EX_05_Line_Numbers" />
-        <item itemvalue="Application.EX_04_Count_Character_Types" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task_02_The_Squirrel" />
+        <item itemvalue="Application.Tasko_01_Rubber_Duck_Debuggers" />
+        <item itemvalue="Application.P07_Generic_Generic_Box.Main" />
+        <item itemvalue="Application.P06_Lab_Raw_Data.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -209,11 +247,16 @@
           <line>70</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="((TreeMap)map).entrySet().toArray()[0]" custom="java.util.TreeMap" />
+        <watch expression="matrix" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
