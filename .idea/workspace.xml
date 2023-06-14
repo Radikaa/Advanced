@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Navy_Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/TASK_02_Treasure_hunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_KAT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_01.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/TASK_02_Treasure_hunt.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_KAT.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" root0="SKIP_INSPECTION" />
@@ -121,9 +121,22 @@
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_02_Navy_Battle">
-    <configuration name="Task_01_Apocalypse_Preparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Apocalypse_Preparation" />
+  <component name="RunManager" selected="Application.Task_01_KAT">
+    <configuration name="TASK_02_Treasure_hunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.TASK_02_Treasure_hunt" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_01_KAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_KAT" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -137,19 +150,6 @@
     </configuration>
     <configuration name="Task_01_Santa_Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Santa_Factory" />
-      <module name="Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_02_Blind_Man_is_Buff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Blind_Man_is_Buff" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -189,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_01_KAT" />
+        <item itemvalue="Application.TASK_02_Treasure_hunt" />
         <item itemvalue="Application.Task_02_Navy_Battle" />
         <item itemvalue="Application.Task_02_Book_Worm" />
         <item itemvalue="Application.Task_01_Santa_Factory" />
-        <item itemvalue="Application.Task_02_Blind_Man_is_Buff" />
-        <item itemvalue="Application.Task_01_Apocalypse_Preparation" />
       </list>
     </recent_temporary>
   </component>
@@ -225,16 +225,6 @@
           <url>file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java</url>
           <line>70</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
