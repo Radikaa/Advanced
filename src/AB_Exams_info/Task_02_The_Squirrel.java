@@ -5,11 +5,8 @@ import java.util.Scanner;
 public class Task_02_The_Squirrel {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         int size = Integer.parseInt(scanner.nextLine());
-
         String[] directionsArr = scanner.nextLine().split(", ");
-
         int countOfHazelnuts = 0;
         char[][] matrix = new char[size][size];
 

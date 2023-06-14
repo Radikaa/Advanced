@@ -5,39 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_05_Reverse_and_Exclude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_06_Predicate_for_Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_07_Find_The_Smallest_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_08_Custom_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_09_List_of_Predicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P05_Functional_Programming/EX_10_Predicate_Party.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Defining_Classes/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_EX_Car_Salesman/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_EX_Car_Salesman/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_EX_Car_Salesman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_EX_Opinion_Poll/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_EX_Opinion_Poll/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Car_info/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Car_info/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Constructors/Constructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Constructors/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P06_Lab_Raw_Data/Tires.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P07_Generic_Generic_Box/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P07_Generic_Generic_Box/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/magazine/Cloth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/magazine/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/magazine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/magazine/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +28,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_01_Fill_the_Matrix.java" root0="SKIP_INSPECTION" />
@@ -142,7 +117,7 @@
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Task_02_Blind_Man_is_Buff">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="magazine.Main" />
       <module name="Advanced" />
@@ -156,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_Lab_Raw_Data.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P06_Lab_Raw_Data.Main" />
+    <configuration name="Task_01_Apocalypse_Preparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Apocalypse_Preparation" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P06_Lab_Raw_Data.*" />
+          <option name="PATTERN" value="AB_Exams_info.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_Generic_Generic_Box.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P07_Generic_Generic_Box.Main" />
+    <configuration name="Task_02_Blind_Man_is_Buff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Blind_Man_is_Buff" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P07_Generic_Generic_Box.*" />
+          <option name="PATTERN" value="AB_Exams_info.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_02_Blind_Man_is_Buff" />
+        <item itemvalue="Application.Task_01_Apocalypse_Preparation" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task_02_The_Squirrel" />
         <item itemvalue="Application.Tasko_01_Rubber_Duck_Debuggers" />
-        <item itemvalue="Application.P07_Generic_Generic_Box.Main" />
-        <item itemvalue="Application.P06_Lab_Raw_Data.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -248,10 +223,14 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="25" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
