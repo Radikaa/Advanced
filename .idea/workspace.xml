@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/magazine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/magazine/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_01_Fill_the_Matrix.java" root0="SKIP_INSPECTION" />
@@ -117,7 +117,7 @@
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_02_Blind_Man_is_Buff">
+  <component name="RunManager" selected="Application.Task_02_Book_Worm">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="magazine.Main" />
       <module name="Advanced" />
@@ -144,6 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_01_Santa_Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Santa_Factory" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_02_Blind_Man_is_Buff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Blind_Man_is_Buff" />
       <module name="Advanced" />
@@ -157,21 +170,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_02_The_Squirrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_The_Squirrel" />
-      <module name="Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tasko_01_Rubber_Duck_Debuggers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Tasko_01_Rubber_Duck_Debuggers" />
+    <configuration name="Task_02_Book_Worm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Book_Worm" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_02_Book_Worm" />
+        <item itemvalue="Application.Task_01_Santa_Factory" />
         <item itemvalue="Application.Task_02_Blind_Man_is_Buff" />
         <item itemvalue="Application.Task_01_Apocalypse_Preparation" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task_02_The_Squirrel" />
-        <item itemvalue="Application.Tasko_01_Rubber_Duck_Debuggers" />
       </list>
     </recent_temporary>
   </component>
@@ -227,16 +227,16 @@
           <line>32</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="25" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="matrix" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
