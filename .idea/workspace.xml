@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Navy_Battle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +27,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_02.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Navy_Battle.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_01_Fill_the_Matrix.java" root0="SKIP_INSPECTION" />
@@ -117,20 +121,7 @@
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_02_Book_Worm">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="magazine.Main" />
-      <module name="Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="magazine.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task_02_Navy_Battle">
     <configuration name="Task_01_Apocalypse_Preparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Apocalypse_Preparation" />
       <module name="Advanced" />
@@ -183,13 +174,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_02_Navy_Battle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Navy_Battle" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_02_Navy_Battle" />
         <item itemvalue="Application.Task_02_Book_Worm" />
         <item itemvalue="Application.Task_01_Santa_Factory" />
         <item itemvalue="Application.Task_02_Blind_Man_is_Buff" />
         <item itemvalue="Application.Task_01_Apocalypse_Preparation" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
