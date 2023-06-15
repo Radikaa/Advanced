@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Food_Finder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Throne_Conquering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,73 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_01.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_02.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/TASK_02_Treasure_hunt.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_KAT.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Meeting.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Navy_Battle.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_01_Fill_the_Matrix.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_02_Matrix_of_Palindromes.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_03_Diagonal_Difference.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_04_MaximalSum.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_06_String_Matrix_Rotation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_07_Crossfire.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/EX_08_The_Heigan_Dance.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/Lab_03_Intersection_of_Two_Matrices.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P02_Matrix/Lab_06_Print_Diagonals_of_Square_Matrix.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_01_Unique_Usernames.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_02_Sets_of_Elements.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_03_Periodic_Table.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_04_Count_Symbols.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_05_Phonebook.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_06_Fix_Emails.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/EX_07_Hands_Of_Cards.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_01_Parking_lot.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_02_SoftUni_Party.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_03_Voina_NumberGame.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_04_Count_Real_Numbers.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_05_Average_Students_Grades.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_06_Product_Shop.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_07_Cities_by_Continent_and_Country.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_08_Academy_Graduation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P03_Set_and_Map/Lab_09_Largest_3_Numbers.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_01_Sum_Lines.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_02_Sum_Bytes.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P04_Streams_Files_Directories/EX_08_Get_Folder_Size.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_01_ConsumerPrint.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_02_KnightsOfHonor.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_03_CustomMinFunction.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_04_Applied_Arithmetics.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_05_Reverse_and_Exclude.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_06_Predicate_for_Names.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_07_Find_The_Smallest_Element.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_08_Custom_Comparator.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_09_List_of_Predicates.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/EX_10_Predicate_Party.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_01_Sort_Even_Numbers.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_02_Sum_Numbers.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_03_Count_Uppercase_Words.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_04_Add_VAT.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_05_Filter_by_Age.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P05_Functional_Programming/Lab_06_Find_Evens_or_Odds.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P06_EX_Car_Salesman/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P06_EX_Opinion_Poll/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Car_info/Car.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Car_info/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Constructors/Constructors.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P06_Lab_Constructors/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P07_Generic_Generic_Box/Box.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/P07_Generic_Generic_Box/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/magazine/Magazine.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/magazine/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Throne_Conquering.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -121,7 +56,7 @@
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_01_Meeting">
+  <component name="RunManager" selected="Application.Task_02_Throne_Conquering">
     <configuration name="TASK_02_Treasure_hunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AB_Exams_info.TASK_02_Treasure_hunt" />
       <module name="Advanced" />
@@ -161,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_02_Book_Worm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Book_Worm" />
+    <configuration name="Task_02_Throne_Conquering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Throne_Conquering" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -174,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_02_Navy_Battle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Navy_Battle" />
+    <configuration name="Tasko_02_Throne_Conquering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Tasko_02_Throne_Conquering" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -189,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_02_Throne_Conquering" />
+        <item itemvalue="Application.Tasko_02_Throne_Conquering" />
         <item itemvalue="Application.Task_01_Meeting" />
         <item itemvalue="Application.Task_01_KAT" />
         <item itemvalue="Application.TASK_02_Treasure_hunt" />
-        <item itemvalue="Application.Task_02_Navy_Battle" />
-        <item itemvalue="Application.Task_02_Book_Worm" />
       </list>
     </recent_temporary>
   </component>
