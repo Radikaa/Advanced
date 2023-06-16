@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Food_Finder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Throne_Conquering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bakery/Bakery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bakery/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bakery/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cafe/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cafe/CafeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cafe/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cafe/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Climb_the_Peaks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Rally_Racing.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Throne_Conquering.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/bakery/Bakery.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cafe/Cafe.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cafe/CafeTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cafe/Employee.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/cafe/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/vetClinic/Clinic.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/vetClinic/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/vetClinic/Pet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,18 +65,32 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\bakery" />
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\vetClinic" />
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\cafe" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\P01_Stacks_and_Queues" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src" />
-      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\Resource" />
-      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\Resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_02_Throne_Conquering">
-    <configuration name="TASK_02_Treasure_hunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.TASK_02_Treasure_hunt" />
+  <component name="RunManager" selected="Application.bakery.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cafe.Main" />
+      <module name="Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cafe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_01_Climb_the_Peaks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Climb_the_Peaks" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_01_KAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_KAT" />
+    <configuration name="Task_02_Rally_Racing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Rally_Racing" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_01_Meeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Meeting" />
+    <configuration name="bakery.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="PATTERN" value="bakery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_02_Throne_Conquering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Throne_Conquering" />
+    <configuration name="vetClinic.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tasko_02_Throne_Conquering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Tasko_02_Throne_Conquering" />
-      <module name="Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="PATTERN" value="vetClinic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_02_Throne_Conquering" />
-        <item itemvalue="Application.Tasko_02_Throne_Conquering" />
-        <item itemvalue="Application.Task_01_Meeting" />
-        <item itemvalue="Application.Task_01_KAT" />
-        <item itemvalue="Application.TASK_02_Treasure_hunt" />
+        <item itemvalue="Application.bakery.Main" />
+        <item itemvalue="Application.vetClinic.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task_02_Rally_Racing" />
+        <item itemvalue="Application.Task_01_Climb_the_Peaks" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +179,11 @@
           <url>file://$PROJECT_DIR$/src/P02_Matrix/EX_05_Matrix_shuffling.java</url>
           <line>70</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cafe/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
