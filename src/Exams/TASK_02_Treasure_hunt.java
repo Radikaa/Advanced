@@ -1,6 +1,5 @@
-package AB_Exams_info;
+package Exams;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class TASK_02_Treasure_hunt {

@@ -1,6 +1,5 @@
-    package AB_Exams_info;
+    package Exams;
 
-    import java.lang.reflect.Array;
     import java.util.*;
     import java.util.stream.Collectors;
 

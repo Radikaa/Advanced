@@ -1,6 +1,5 @@
-package AB_Exams_info;
+package Exams;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task_02_Rally_Racing {

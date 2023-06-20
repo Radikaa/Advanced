@@ -1,4 +1,4 @@
-package AB_Exams_info;
+package Exams;
 
 import java.util.*;
 import java.util.stream.Collectors;

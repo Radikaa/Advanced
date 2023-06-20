@@ -1,6 +1,5 @@
-package AB_Exams_info;
+package Exams;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task_02_Blind_Man_is_Buff {
@@ -53,7 +52,7 @@ public class Task_02_Blind_Man_is_Buff {
                     continue;
                 }
             } else if (command.equals("down")) {
-                if (playerRow + 1 <= rows) {
+                if (playerRow + 1 < rows) {
                     if (matrix[playerRow + 1][playerCol] == 'O') {
                         command = scanner.nextLine();
                         continue;
@@ -95,7 +94,7 @@ public class Task_02_Blind_Man_is_Buff {
                     continue;
                 }
             } else if (command.equals("right")) {
-                if (playerCol + 1 <= cols) {
+                if (playerCol + 1 < cols) {
                     if (matrix[playerRow][playerCol + 1] == 'O') {
                         command = scanner.nextLine();
                         continue;

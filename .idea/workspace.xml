@@ -5,16 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b591228-5202-4cee-b217-554364588c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bakery/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bakery/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bakery/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cafe/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cafe/CafeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cafe/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cafe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_AAExam/MouseMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_AAExam/Task_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_AAExam/Task_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/automotiveRepairShop/RepairShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/automotiveRepairShop/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softUni/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softUni/SoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/softUni/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AA_Exam/Task_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/TASK_02_Treasure_hunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/TASK_02_Treasure_hunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Apocalypse_Preparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_01_Apocalypse_Preparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Climb_the_Peaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_01_Climb_the_Peaks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Food_Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_01_Food_Finder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_KAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_01_KAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Meeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_01_Meeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_01_Santa_Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_01_Santa_Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Blind_Man_is_Buff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_02_Blind_Man_is_Buff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Book_Worm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_02_Book_Worm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Navy_Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_02_Navy_Battle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Rally_Racing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_02_Rally_Racing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_The_Squirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_02_The_Squirrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Task_02_Throne_Conquering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Task_02_Throne_Conquering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AB_Exams_info/Tasko_01_Rubber_Duck_Debuggers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exams/Tasko_01_Rubber_Duck_Debuggers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +47,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/AA_Exam/Task_02.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_01_Climb_the_Peaks.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Rally_Racing.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/AB_Exams_info/Task_02_Throne_Conquering.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/A_AAExam/MouseMatrix.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/A_AAExam/Task_001.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/A_AAExam/Task_002.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/automotiveRepairShop/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/automotiveRepairShop/RepairShop.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/automotiveRepairShop/Vehicle.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/bakery/Bakery.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/cafe/Cafe.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/cafe/CafeTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/cafe/Employee.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/cafe/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/vetClinic/Clinic.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/vetClinic/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/vetClinic/Pet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/softUni/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/softUni/SoftUni.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/softUni/SoftUniTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/softUni/Student.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,34 +72,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\automotiveRepairShop" />
+      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\softUni" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\bakery" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\vetClinic" />
       <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\cafe" />
-      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src\P01_Stacks_and_Queues" />
-      <recent name="C:\Users\stanc\OneDrive\Документи\GitHub\Advanced\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="P04_Streams_Files_Directories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bakery.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cafe.Main" />
+  <component name="RunManager" selected="Application.automotiveRepairShop.Main">
+    <configuration name="A_AAExam.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_AAExam.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cafe.*" />
+          <option name="PATTERN" value="A_AAExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_01_Climb_the_Peaks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_01_Climb_the_Peaks" />
+    <configuration name="MouseMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_AAExam.MouseMatrix" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="PATTERN" value="A_AAExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_02_Rally_Racing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB_Exams_info.Task_02_Rally_Racing" />
+    <configuration name="Task_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_AAExam.Task_002" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AB_Exams_info.*" />
+          <option name="PATTERN" value="A_AAExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bakery.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bakery.Main" />
+    <configuration name="Task_02_Blind_Man_is_Buff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.Task_02_Blind_Man_is_Buff" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bakery.*" />
+          <option name="PATTERN" value="Exams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vetClinic.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetClinic.Main" />
+    <configuration name="automotiveRepairShop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="automotiveRepairShop.Main" />
       <module name="Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetClinic.*" />
+          <option name="PATTERN" value="automotiveRepairShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bakery.Main" />
-        <item itemvalue="Application.vetClinic.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task_02_Rally_Racing" />
-        <item itemvalue="Application.Task_01_Climb_the_Peaks" />
+        <item itemvalue="Application.automotiveRepairShop.Main" />
+        <item itemvalue="Application.MouseMatrix" />
+        <item itemvalue="Application.Task_02_Blind_Man_is_Buff" />
+        <item itemvalue="Application.Task_002" />
+        <item itemvalue="Application.A_AAExam.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -185,11 +204,25 @@
           <line>22</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/softUni/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exams/Task_02_Blind_Man_is_Buff.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="25" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
